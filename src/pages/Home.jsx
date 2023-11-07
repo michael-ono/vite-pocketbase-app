@@ -5,6 +5,7 @@ export default function Home() {
     <div>
       <h1>Home</h1>
       <h3>Create a task today</h3>
+      <button>Task</button>
     </div>
   )
 }
